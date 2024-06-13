@@ -19,8 +19,8 @@ WeaponData
 	"TimeReloadStart"	"0.1"
 	"TimeReload"		"0.83"
 	"primary_ammo"		"TF_AMMO_PRIMARY"
-	clip_size		4
-	default_clip		4
+	"clip_size"		"4"
+	"default_clip"		"4"
 	"ProjectileType"	"projectile_rocket"
 	"HasTeamSkins_Viewmodel"	"1"
 
