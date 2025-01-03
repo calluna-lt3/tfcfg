@@ -1,4 +1,4 @@
-WeaponData
+WeaponData //stickybomb launcher
 {
 	// Attributes Base.
 	"printname"		"#TF_Weapon_StickybombLauncher"
@@ -85,7 +85,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/crosshair5"
+				"file"		"vgui/replay/thumbnails/xhairshadowplus"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
